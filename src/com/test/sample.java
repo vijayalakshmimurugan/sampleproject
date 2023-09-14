@@ -6,6 +6,7 @@ public class sample {
 		System.out.println("Ant");
 		System.out.println("cat");
 		System.out.println("Bee");
+		System.out.println("Dog");
 
 	}
 
